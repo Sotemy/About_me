@@ -1,8 +1,8 @@
 # Moninger
 
 - 👋 Hi, I’m Dmitrii Lechenko
-- 
-- Yes, DMITRII. Too much people think that my name is DIMITRII so sometimes some mails don't come to me.
+
+- Yes, I'm DMITRII. Too much people think that my name is DIMITRII so sometimes some mails don't come to me.
 - But anyway it doesn't bother me ))
 
 - 👀 I’m interested in web development and mobile/desktop apps.
