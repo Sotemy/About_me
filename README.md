@@ -5,7 +5,7 @@
 - But anyway it doesn't bother me ))
 2. 👀 I’m interested in web development and mobile/desktop apps.
 - In my profile you will find some repos with projects.
-- as the sample [sote](https://github.com/moninger/sote)
+- as the sample [sote](https://github.com/Sotemy/sote)
 3. 🌱 I’m currently learning Python, JavaScript.
 - I'm learning JavaScript because it's really perspective. So with Javascript you can write from a firmware for esp32 to, as the sample, VSCode
 4. 💞️ I’m looking to collaborate on web projects, maybe BugBounty
