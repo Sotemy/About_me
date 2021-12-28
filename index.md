@@ -6,7 +6,7 @@ This is a blog of my project [SOTE]([link](https://github.com/Sotemy/sote)). I'v
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-[Link to a page]({% link posts/first.md %})
+<!-- [Link to a page]({% link posts/first.md %}) -->
 
 ```markdown
 Syntax highlighted code block
