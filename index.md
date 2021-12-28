@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Blog of Sote
 
-You can use the [editor on GitHub](https://github.com/Sotemy/About_me/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a blog of my project [SOTE]([link](https://github.com/Sotemy/sote)). I've done it to write about "treasures" these i found while i was writing code.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+[Link to a page]({% link posts/first.md %})
 
 ```markdown
 Syntax highlighted code block
