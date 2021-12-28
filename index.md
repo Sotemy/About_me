@@ -1,12 +1,12 @@
 ## Blog of Sote
 
-This is a blog of my project [SOTE]([link](https://github.com/Sotemy/sote)). I've done it to write about "treasures" these i found while i was writing code.
+This is a blog of my project [SOTE]((https://github.com/Sotemy/sote)). I've done it to write about "treasures" these i found while i was writing code.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-<!-- [Link to a page]({% link posts/first.md %}) -->
+[Link to a page]({% link posts/first.md %})
 
 ```markdown
 Syntax highlighted code block
